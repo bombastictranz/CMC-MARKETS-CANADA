@@ -1,4 +1,4 @@
-Romeo Rosete # Security Policy
+# Security Policy
 
 ## Supported Versions
 
