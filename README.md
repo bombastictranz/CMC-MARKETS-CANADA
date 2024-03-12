@@ -1,4 +1,4 @@
-Romeo Rosete # CRM App
+# CRM App
 
 This project was generated with [App Builder Code Gen](https://www.infragistics.com/products/appbuilder).
 
