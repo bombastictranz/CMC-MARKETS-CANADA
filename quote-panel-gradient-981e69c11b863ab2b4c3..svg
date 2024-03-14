@@ -1,0 +1,14 @@
+<svg viewbox="0 0 270 70" width="270px" height="70px" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+<style type="text/css">.st0 {
+  opacity: 1;
+  fill: url(#XMLID_3_);
+  }</style>
+<linearGradient gradientTransform="matrix(1 0 0 -1 0 79)" y2="12.504" x2="182" y1="81.8333" x1="182" gradientUnits="userSpaceOnUse" id="XMLID_3_">
+  <stop stop-color="#17181B" stop-opacity="0" offset="0"/>
+  <stop stop-color="#16181A" offset="1"/>
+</linearGradient>
+<g>
+  <title>Layer 1</title>
+  <rect height="71.8" width="269.94923" class="st0" id="XMLID_93_" fill="black" x="0.05078"/>
+</g>
+</svg>
