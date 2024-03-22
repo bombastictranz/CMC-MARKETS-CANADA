@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="18px" viewBox="0 0 24 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>-in/icon/-social/youtube</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9.54545455,15.5876855 L9.54545455,8.41231452 L15.8181818,12.0001371 L9.54545455,15.5876855 Z M23.4984545,6.15460484 C23.2224545,5.10965323 22.4091818,4.28679839 21.3766364,4.00753226 C19.5050455,3.5 12,3.5 12,3.5 C12,3.5 4.49495455,3.5 2.62336364,4.00753226 C1.59081818,4.28679839 0.777545455,5.10965323 0.501545455,6.15460484 C0,8.04845968 0,12 0,12 C0,12 0,15.9514032 0.501545455,17.8453952 C0.777545455,18.8903468 1.59081818,19.7132016 2.62336364,19.9926048 C4.49495455,20.5 12,20.5 12,20.5 C12,20.5 19.5050455,20.5 21.3766364,19.9926048 C22.4091818,19.7132016 23.2224545,18.8903468 23.4984545,17.8453952 C24,15.9514032 24,12 24,12 C24,12 24,8.04845968 23.4984545,6.15460484 L23.4984545,6.15460484 Z" id="path-1"></path>
+    </defs>
+    <g id="Navigation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer" transform="translate(-696.000000, -599.000000)">
+            <g id="footer" transform="translate(0.000000, 348.000000)">
+                <g id="Group-5" transform="translate(616.000000, 248.000000)">
+                    <g id="-in/icon/-social/youtube" transform="translate(80.000000, 0.000000)">
+                        <mask id="mask-2" fill="#071633">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Fill-1" fill="#071633" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
