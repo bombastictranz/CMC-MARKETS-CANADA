@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>-in/icon/-social/facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20.8961719,2 L3.10384766,2 C2.49421875,2 2,2.49421875 2,3.10384766 L2,20.8961523 C2,21.5057422 2.49404297,22 3.10384766,22 L12.6835938,22 L12.6835938,14.265625 L10.0859375,14.265625 L10.0859375,11.2382812 L12.6835938,11.2382812 L12.6835938,9.01042969 C12.6835938,6.4271875 14.2611914,5.02054687 16.5655469,5.02054687 C17.6693164,5.02054687 18.6180078,5.10273438 18.8945312,5.13947266 L18.8945312,7.83912109 L17.305332,7.83984375 C16.0514062,7.83984375 15.8085938,8.43570312 15.8085938,9.31009766 L15.8085938,11.2382812 L18.8063867,11.2382812 L18.4160352,14.265625 L15.8085938,14.265625 L15.8085938,22 L20.8961719,22 C21.5058008,22 22,21.5058008 22,20.8961719 L22,3.10380859 C22,2.49419922 21.5058008,2 20.8961719,2" id="path-1"></path>
+    </defs>
+    <g id="Navigation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer" transform="translate(-618.000000, -598.000000)">
+            <g id="footer" transform="translate(0.000000, 348.000000)">
+                <g id="Group-5" transform="translate(616.000000, 248.000000)">
+                    <g id="-in/icon/-social/facebook">
+                        <mask id="mask-2" fill="#071633">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Fill-1" fill="#071633" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
