@@ -1,3 +1,5 @@
+![download (3)](https://github.com/bombastictranz/CMC-MARKETS-CANADA/assets/110788242/2361cad7-32b1-42a9-b125-7f354fa86784)
+![download (4)](https://github.com/bombastictranz/CMC-MARKETS-CANADA/assets/110788242/28b8ddda-5779-4a06-96de-e98409f1a560)
 # CRM App
 
 This project was generated with [App Builder Code Gen](https://www.infragistics.com/products/appbuilder).
